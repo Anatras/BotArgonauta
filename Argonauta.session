@@ -1,0 +1,38 @@
+{
+    "dc_id": 1,
+    "test_mode": false,
+    "auth_key": [
+        "rvFivRehp+nTd1xmifBRyDwl0tQDDuEpo7FBGsRoNMS",
+        "60WJZEU+fH3besDVA+ig8kLM43H3JOLsi0uXa87OERg",
+        "liYztQAyV+35FJtP5CHfWXaTcH2lXsp34hMRXQeBuPU",
+        "Dc76oUr4N3amufDzX84nWMX5QzPj3cZiLS+Zj1jfuYn",
+        "jz3FUOErvJ4IpsnsXD1Ln5mF6apJra5Gpe3s7xum7yF",
+        "6nqgrfHI9nyzC8aoHOmmi5N9qYUWwHrNctjEOYKA0TE",
+        "ct8KS2CEN22uU5XN4lI0bC5IszCxRmhLxQ/n4sf3uTI",
+        "wuwSiiDubdMCtqRZkOCdj9UhxvVnnT7OtYjlFlKJw=="
+    ],
+    "user_id": 885550564,
+    "date": 1560757914,
+    "is_bot": true,
+    "peers_by_id": {
+        "602338422": -6855638710228376447,
+        "885550564": 4093841470882732795,
+        "-1001433031089": -4924172213514262088,
+        "530946957": -801074659933070197,
+        "-1001411671753": 8796090826146666826,
+        "61039864": 6275903898610406636,
+        "379773286": -8097691021489193702,
+        "236880746": -4860472870244214794
+    },
+    "peers_by_username": {
+        "anatras02": 602338422,
+        "helperargonautashopbot": 885550564,
+        "prova1224": -1001433031089,
+        "xxniko221xx": 530946957,
+        "argonautashop": -1001411671753,
+        "miky30": 61039864,
+        "cpower2002": 379773286,
+        "lootplusbot": 236880746
+    },
+    "peers_by_phone": {}
+}
